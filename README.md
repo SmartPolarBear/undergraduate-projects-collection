@@ -20,6 +20,8 @@
 
 - [Year 3, Semester I] UNIX Programming [[Experiments]](https://github.com/SmartPolarBear/unix-programming-csxmu-2022)
 
+- [Year 3, Semester I] Subject Practice III **[Won't be made publicly available]**
+
 ### Year 2
 
 - [Year 2, Semester III] Electronic Technology Practice [[Homework]](https://github.com/SmartPolarBear/mp430-homework-csxmu-2022) [[Report]](https://github.com/SmartPolarBear/msp430-report-csxmu-2022) [[Final Project]](https://github.com/SmartPolarBear/mp430-car-csxmu-2022)
