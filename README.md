@@ -32,6 +32,8 @@
 
 - [Year 2, Semester II] Algorithm Analysis [[Experiments and Homework]](https://github.com/SmartPolarBear/algorithm-analysis-csxmu-2022)
 
+- [Year 2, Semester II] C++ Programming Langauge [[Final Project]](https://github.com/SmartPolarBear/cppautograd) [[Final Report]](https://github.com/SmartPolarBear/cpp-final-csxmu-2022)
+
 - [Year 2, Semester I] Matlab and Mathematical Modeling [[Final Project]](https://github.com/SmartPolarBear/matlab-math-analysis-csxmu-2021)
 
 - [Year 2, Semester I] Pattern Recognition [[K-Means]](https://github.com/SmartPolarBear/kmeans-python)
