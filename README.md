@@ -1,5 +1,10 @@
 # xmucs-survival-guide: Towards Better Efficiency to Learn Computer Science at XMU
 
+[![issues](https://img.shields.io/github/issues/SmartPolarBear/xmucs-survival-guide)](https://github.com/SmartPolarBear/xmucs-survival-guide/issues)
+[![forks](https://img.shields.io/github/forks/SmartPolarBear/xmucs-survival-guide)](https://github.com/SmartPolarBear/xmucs-survival-guide/fork)
+[![stars](https://img.shields.io/github/stars/SmartPolarBear/xmucs-survival-guide)](https://github.com/SmartPolarBear/xmucs-survival-guide/stargazers)
+[![license](https://img.shields.io/github/license/SmartPolarBear/xmucs-survival-guide)](https://github.com/SmartPolarBear/xmucs-survival-guide/blob/master/LICENSE)
+
 ## Courses, Experiments and Reports
 
 ### Year 3
@@ -38,8 +43,13 @@
 
 - [Year 2, Semester I] Pattern Recognition [[K-Means]](https://github.com/SmartPolarBear/kmeans-python)
 
+- [Year 2, Semester I] Data Sturcture [TODO]
+
 ### Year 1
 
 - [Year 1, Semester III] C Programming Practice [[Final Project]](https://github.com/SmartPolarBear/plane-ticket)
 
 - [Year 1, Semester II] Probability and Mathematical Statistics [[Programming Homework]](https://github.com/SmartPolarBear/random_generator)
+
+- [Year 1, Semester I] C Programming Language [TODO]
+
