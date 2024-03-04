@@ -45,7 +45,7 @@
 
 - [Year 2, Semester I] Pattern Recognition [[K-Means]](https://github.com/SmartPolarBear/kmeans-python)
 
-- [Year 2, Semester I] Data Sturcture [TODO]
+- [Year 2, Semester I] Data Sturcture [Experiments (TODO)] [[Final Project]](https://github.com/SmartPolarBear/kmp_algorithm)
 
 ### Year 1
 
@@ -53,5 +53,5 @@
 
 - [Year 1, Semester II] Probability and Mathematical Statistics [[Programming Homework]](https://github.com/SmartPolarBear/random_generator)
 
-- [Year 1, Semester I] C Programming Language [TODO]
+- [Year 1, Semester I] C Programming Language [Experiments (TODO)]
 
