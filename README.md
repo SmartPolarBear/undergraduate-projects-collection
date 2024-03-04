@@ -5,6 +5,8 @@
 [![stars](https://img.shields.io/github/stars/SmartPolarBear/xmucs-survival-guide)](https://github.com/SmartPolarBear/xmucs-survival-guide/stargazers)
 [![license](https://img.shields.io/github/license/SmartPolarBear/xmucs-survival-guide)](https://github.com/SmartPolarBear/xmucs-survival-guide/blob/master/LICENSE)
 
+**Be disciplined, and use at your own risks**
+
 ## Courses, Experiments and Reports
 
 ### Year 3
