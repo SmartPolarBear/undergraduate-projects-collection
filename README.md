@@ -1,4 +1,4 @@
-# xmucs-survival-guide: Towards Better Efficiency to Learn Computer Science at XMU
+#  undergraduate-projects-collection: All those have been done in undergraduate years.
 
 [![issues](https://img.shields.io/github/issues/SmartPolarBear/undergraduate-projects-collection)](https://github.com/SmartPolarBear/xmucs-survival-guide/issues)
 [![forks](https://img.shields.io/github/forks/SmartPolarBear/undergraduate-projects-collection)](https://github.com/SmartPolarBear/xmucs-survival-guide/fork)
