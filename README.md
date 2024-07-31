@@ -1,9 +1,9 @@
 # xmucs-survival-guide: Towards Better Efficiency to Learn Computer Science at XMU
 
-[![issues](https://img.shields.io/github/issues/SmartPolarBear/xmucs-survival-guide)](https://github.com/SmartPolarBear/xmucs-survival-guide/issues)
-[![forks](https://img.shields.io/github/forks/SmartPolarBear/xmucs-survival-guide)](https://github.com/SmartPolarBear/xmucs-survival-guide/fork)
-[![stars](https://img.shields.io/github/stars/SmartPolarBear/xmucs-survival-guide)](https://github.com/SmartPolarBear/xmucs-survival-guide/stargazers)
-[![license](https://img.shields.io/github/license/SmartPolarBear/xmucs-survival-guide)](https://github.com/SmartPolarBear/xmucs-survival-guide/blob/master/LICENSE)
+[![issues](https://img.shields.io/github/issues/SmartPolarBear/undergraduate-projects-collection)](https://github.com/SmartPolarBear/xmucs-survival-guide/issues)
+[![forks](https://img.shields.io/github/forks/SmartPolarBear/undergraduate-projects-collection)](https://github.com/SmartPolarBear/xmucs-survival-guide/fork)
+[![stars](https://img.shields.io/github/stars/SmartPolarBear/undergraduate-projects-collection)](https://github.com/SmartPolarBear/xmucs-survival-guide/stargazers)
+[![license](https://img.shields.io/github/license/SmartPolarBear/undergraduate-projects-collection)](https://github.com/SmartPolarBear/xmucs-survival-guide/blob/master/LICENSE)
 
 **Be disciplined, and use at your own risks**
 
